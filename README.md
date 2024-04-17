@@ -19,39 +19,6 @@ This Kotlin program simulates a basic chatbot interaction, where the bot greets 
    - Enter a number when prompted to count.
    - Answer the programming knowledge test question.
 
-## Example
-
-Hello! My name is Chat Bot.
-I was created in 2023.
-And what is your name?
-John
-Nice to meet you, John!
-Do you like tricks?? Let me guess your age.
-Enter remainders of dividing your age by 3, 5, and 7:
-1
-2
-1
-Your age is 22; that's a good time to start programming!
-Now I will prove to you that I can count to any number you want.
-5
-0!
-1!
-2!
-3!
-4!
-5!
-Let's test your programming knowledge.
-Why do we use methods?
-
-To repeat a statement multiple times.
-To decompose a program into several small subroutines.
-To determine the execution time of a program.
-To interrupt the execution of a program.
-2
-Congratulations, have a nice day!
-markdown
-Copy code
-
 ## Notes
 
 - The chatbot program is implemented in Kotlin.
