@@ -39,5 +39,3 @@ Looping: The program utilizes loops, specifically a for loop, to count numbers u
 Conditional Statements: A while loop is used for the test section, where the program continues to prompt the user until the correct answer is provided.
 
 Functionality Decomposition: The program decomposes its functionality into smaller, more manageable functions, enhancing code readability and maintainability.
-
-These knowledge areas and concepts contribute to the functionality and interactivity of the chatbot program.
